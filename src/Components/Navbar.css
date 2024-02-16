@@ -1,0 +1,14 @@
+.nav-list{
+    display: flex;
+    text-align: center !important;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+.nav-item{
+    list-style: none !important;
+}
+a{
+    text-decoration: none !important;
+    color: black !important;
+}
