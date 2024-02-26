@@ -2,6 +2,7 @@ import React from 'react'
 
 import NavBar from '../../Components/NavBar';
 import './Home.css';
+import Hero from '../../Components/Hero';
 
 function Home() {
   
@@ -10,6 +11,7 @@ function Home() {
     <div className='home-main-container'> 
       <div className='navbar-section container'>
       <NavBar />
+      <Hero />
       </div>
     </div>
   )

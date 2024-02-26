@@ -1,0 +1,97 @@
+/* navbar */
+.nav-list {
+  display: flex;
+  text-align: center !important;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+.nav-item {
+  list-style: none !important;
+}
+a {
+  text-decoration: none !important;
+  color: black !important;
+}
+
+/* ------------------------------------------hero.js------------------------------------- */
+.hero-container {
+  display: flex;
+  /* flex-direction: column; */
+  /* align-items: center; */
+  justify-content: center;
+  /* width: 100%; */
+  height: 72vh;
+  gap: 1.8rem;
+}
+.hero-btn {
+  border-radius: 24px;
+  height: 3rem;
+}
+.left {
+  flex: 1;
+}
+.right {
+  flex: 1;
+  position:relative;
+}
+.hero-box {
+  /* width: 256px;
+  height: 200px; */
+  flex-shrink: 0;
+  border-radius: 19px;
+  border: 3px solid #fff;
+  background: #c3c5c6;
+  align-items: center;
+  
+  box-sizing: border-box;
+  width: 16.38rem;
+  height: 12.88rem;
+  overflow: hidden;
+  align-items: center;
+  justify-content: center;
+  padding: 0.8rem;
+  box-shadow: 10px 15px 24px rgba(0, 0, 0, 0.3); 
+}
+.box-text{
+    flex: 1;
+    font-size: xx-large !important;
+}
+.award-text{
+    font-size: xx-large!important;
+}
+.box-vector{
+    flex: 1;
+    position: absolute;
+    top: 6rem;
+    left: 8rem;
+    
+}
+.award-vector{
+    top:1.3rem !important;
+    left: 6rem;
+    
+}
+.students{
+    position: absolute;
+  top: 6.81rem !important;
+  left: -0.19rem !important;
+}
+.experience{
+    position: absolute;
+    top: -1.25rem !important;
+    left: 8.8rem !important;
+    align-items: center !important;
+    text-align: center !important;
+}
+.fs-1{
+    font-size: 3rem !important;
+}
+.fs-2{
+    font-size: 6rem !important;
+}
+.awards{
+    position: absolute;
+    top: 12.50rem;
+    left: 17.5rem;
+}

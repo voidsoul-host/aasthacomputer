@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 // file and assets imports
 import acelogo from '../assets/acelogo.png'
-import './Navbar.css'
+import './component.css'
 
 function NavBar() {
   return (
