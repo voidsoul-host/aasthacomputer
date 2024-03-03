@@ -23,7 +23,7 @@ function Certificate() {
   return (
     <div className='certificate-container mb-5'>
         <h1>Certificate</h1>
-        <p className='mb-0'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolor vero, rem quia magnam necessitatibus quas eligendi dignissimos corporis ex illo reiciendis velit, distinctio ducimus temporibus aperiam iste iusto impedit minus quibusdam, perferendis cum. Cupiditate, quis.</p>
+        <p className='mb-0'>Our institute offers courses that provide essential certificates crucial for students' career advancement. These certificates not only validate their skills but also open doors to exciting opportunities, ensuring a bright and promising future.</p>
         <div className="cards mt-4">
           {
             certificates.map((certificate, index) =>{

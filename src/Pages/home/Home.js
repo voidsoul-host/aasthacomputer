@@ -11,8 +11,8 @@ function Home() {
   
   // bg-color e5eaf5 for home-main-container
   return (
-    <div className='home-main-container'> 
-      <div className='navbar-section container'>
+    <div className='main-container'> 
+      <div className=' container'>
       <NavBar />
       <Hero />
       <Certificate />

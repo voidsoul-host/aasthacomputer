@@ -1,14 +1,13 @@
 import React from 'react'
 import './footer.css'
-import acelogo from '../assets/acelogo.png'
 
 function Footer() {
   return (
     <div className='footer-container footer mt-5'>
       <div className="footerUp d-flex">
         <div className="fleft">
-            <h3>Our Vision</h3>
-            <p className='mt-4' >L ullam corrupti molestias assumenda?</p>
+            <h3>Our Vision: Transforming Minds, Empowering Futures</h3>
+            <p className='mt-4' >Our institute is dedicated to equipping students with the knowledge and skills needed to thrive in the modern computer world. We aim to foster innovation, creativity, and digital literacy, empowering individuals to embrace technology as a catalyst for positive change and endless opportunities.</p>
             <div className="socialIcons mt-5 d-flex">
                 {/* instagram svg */}
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
@@ -65,8 +64,8 @@ function Footer() {
       </div>
       <div className="footerDown d-flex">
         <div className="footerDiv d-flex">
-            <img className='footerFav' src={acelogo} alt="Aastha Computer Logo" />
             <p className='footerText mb-0'>&copy; 2024 AASTHA COMPUTERS, ALL RIGHTS RESERVED</p>
+            <p>Developed & Designed with &#10084;&#65039; by <span className='brandAd'><a target='_blank' rel='noreferrer' href="https://www.linkedin.com/in/sanskar-purohit/">Sanskar</a></span> & <span  className='brandAd'><a target='_blank' rel='noreferrer' href="https://www.linkedin.com/in/dheeraj-lakhotia/">Dheeraj</a></span></p>
         </div>
       </div>
     </div>

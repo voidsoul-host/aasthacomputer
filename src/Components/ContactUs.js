@@ -5,7 +5,7 @@ function ContactUs() {
   return (
     <div className='contact-container mt-5'>
       <h1>Contact Us</h1>
-      <p className='mb-5 mt-4'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolor vero, rem quia magnam necessitatibus quas eligendi dignissimos corporis ex illo reiciendis velit, distinctio ducimus temporibus aperiam iste iusto impedit minus quibusdam, perferendis cum. Cupiditate, quis.</p>
+      <p className='mb-5 mt-4'>Connect with us effortlessly through our Contact Us section. Your inquiries and feedback are valuable to us, and we're here to assist you every step of the way. Let's start a conversation today!</p>
       <div className="contactForm mt-5">
         <form action="" className=''>
           <div className="d-flex form-div">

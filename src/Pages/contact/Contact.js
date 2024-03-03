@@ -4,9 +4,11 @@ import ContactUs from '../../Components/ContactUs'
 
 function Contact() {
   return (
-    <div>
-      <NavBar />
-      <ContactUs />
+    <div className='main-container'>
+      <div className="container">
+        <NavBar />
+        <ContactUs />
+      </div>
     </div>
   )
 }

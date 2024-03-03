@@ -6,9 +6,9 @@ function Hero() {
   return (
     <div className='hero-container mt-5'>
       <div className="left">
-        <h1 className='mb-4'>Aastha Computer Education</h1>
-        <h6 className='mb-5'>Learn with us, with Better Quality of Education Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse earum ducimus, incidunt beatae alias, quisquam expedita excepturi autem corporis tenetur blanditiis qui sit adipisci animi ipsam nulla repudiandae rerum nesciunt quis cum quia quas. Nemo.</h6>
-        <button className="btn btn-warning w-50 hero-btn">Contact Us</button>
+        <h1 className='mb-4'>Empowering Minds for a Tech-Driven Future.</h1>
+        <p className='mb-5'>Our institute is dedicated to equipping students with the knowledge and skills needed to thrive in the modern computer world. We aim to foster innovation, creativity, and digital literacy, empowering individuals to embrace technology as a catalyst for positive change and endless opportunities.</p>
+        <button className="btn btn-warning w-50 hero-btn">Contact Us &gt;</button>
       </div>
       <div className="right">
         <div className="hero-box z-1 students d-flex">
