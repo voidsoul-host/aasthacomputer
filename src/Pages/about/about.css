@@ -1,0 +1,24 @@
+.whoWeAre{
+    flex: 1;
+    justify-content: space-around;
+    align-items: center;
+    gap: 1.8rem;
+}
+.about-box{
+/* width: 256px;
+  height: 200px; */
+  flex-shrink: 0;
+  border-radius: 19px;
+  border: 3px solid yellow;
+  background: transparent;
+  align-items: center;
+  
+  box-sizing: border-box;
+  width: 16.38rem;
+  height: 12.88rem;
+  overflow: hidden;
+  align-items: center;
+  justify-content: center;
+  padding: 0.8rem;
+  box-shadow: 10px 15px 24px yellow !important; 
+}
