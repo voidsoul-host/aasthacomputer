@@ -1,0 +1,18 @@
+.contact-container{
+    text-align: center;
+}
+.form-div{
+    gap: 1rem;
+}
+.form-div-one, .form-div-two{
+    flex: 1
+}
+textarea{
+    height: 100%;
+}
+.form-control, .form-control:focus{
+    background-color: transparent !important;
+}
+.form-floating>.form-control:focus~label::after{
+    background-color: transparent !important;
+}

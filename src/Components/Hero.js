@@ -4,7 +4,7 @@ import award from '../assets/award.png'
 
 function Hero() {
   return (
-    <div className='hero-container mt-4'>
+    <div className='hero-container mt-5'>
       <div className="left">
         <h1 className='mb-4'>Aastha Computer Education</h1>
         <h6 className='mb-5'>Learn with us, with Better Quality of Education Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse earum ducimus, incidunt beatae alias, quisquam expedita excepturi autem corporis tenetur blanditiis qui sit adipisci animi ipsam nulla repudiandae rerum nesciunt quis cum quia quas. Nemo.</h6>

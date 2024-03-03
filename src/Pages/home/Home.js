@@ -4,6 +4,7 @@ import NavBar from '../../Components/NavBar';
 import './Home.css';
 import Hero from '../../Components/Hero';
 import Certificate from '../../Components/Certificate';
+import ContactUs from '../../Components/ContactUs';
 
 function Home() {
   
@@ -14,6 +15,7 @@ function Home() {
       <NavBar />
       <Hero />
       <Certificate />
+      <ContactUs />
       </div>
     </div>
   )
