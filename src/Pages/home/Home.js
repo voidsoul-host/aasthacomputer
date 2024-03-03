@@ -5,6 +5,7 @@ import './Home.css';
 import Hero from '../../Components/Hero';
 import Certificate from '../../Components/Certificate';
 import ContactUs from '../../Components/ContactUs';
+import Footer from '../../Components/Footer';
 
 function Home() {
   
@@ -17,6 +18,7 @@ function Home() {
       <Certificate />
       <ContactUs />
       </div>
+      <Footer />
     </div>
   )
 }

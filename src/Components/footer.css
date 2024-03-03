@@ -1,0 +1,50 @@
+.footerUp{
+    flex: 1;
+    justify-content: space-between;
+    padding-top: 2rem;
+    padding-inline: 4rem;
+}
+.socialIcons {
+    gap: 0.8rem;
+    align-items: baseline;
+}
+svg{
+    width: 2rem !important;
+    height: 2rem !important;
+}
+.fright{
+    justify-content: space-around;
+    gap: 5.8rem;
+}
+ul, li{
+    list-style: none;
+    font-weight: 400;
+    padding-left: 0 !important;
+}
+.footerUl{
+    display: flex;
+    flex-direction: column;
+    gap: 0.8rem;
+}
+li:hover{
+    cursor: pointer;
+    color: brown;
+}
+.list{
+    gap: 0.8rem;
+}
+.footerDiv{
+    flex: 1;
+    gap: 25.5vw;
+    align-items: center;
+    padding-top: 1rem;
+    padding-inline: 4rem;
+    border-top: 1px solid rgba(197, 81, 81, 0.459);
+}
+.footerFav{
+    width: 5rem;
+    height: 5rem;
+}
+.footerText{
+    font-weight: 400;
+}
