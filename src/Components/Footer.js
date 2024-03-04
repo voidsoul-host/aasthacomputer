@@ -64,8 +64,8 @@ function Footer() {
       </div>
       <div className="footerDown d-flex">
         <div className="footerDiv d-flex">
-            <p className='footerText mb-0'>&copy; 2024 AASTHA COMPUTERS, ALL RIGHTS RESERVED</p>
-            <p>Developed & Designed with &#10084;&#65039; by <span className='brandAd'><a target='_blank' rel='noreferrer' href="https://www.linkedin.com/in/sanskar-purohit/">Sanskar</a></span> & <span  className='brandAd'><a target='_blank' rel='noreferrer' href="https://www.linkedin.com/in/dheeraj-lakhotia/">Dheeraj</a></span></p>
+            <p className='footerText mb-0'>&copy; 2024 AASTHA COMPUTERS, ALL RIGHTS RESERVED.</p>
+            <p>Developed & Designed with &#10084;&#65039; by <span className='brandAd'><a target='_blank' rel='noreferrer' href="https://www.linkedin.com/in/sanskar-purohit/">Sanskar</a></span> & <span  className='brandAd'><a target='_blank' rel='noreferrer' href="https://www.linkedin.com/in/dheeraj-lakhotia/">Dheeraj</a></span>.</p>
         </div>
       </div>
     </div>
