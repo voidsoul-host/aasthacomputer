@@ -1,0 +1,28 @@
+.location-heads{
+    text-align: center;
+}
+.locations{
+    flex: 1;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1.8rem;
+}
+.mob{
+    border-radius: 0.6rem;
+    overflow: hidden;
+    font-weight: 300;
+    width: 40%;
+}
+.mob a {
+    font-weight: 500;
+}
+.mob:hover{
+    background-color: #198754;
+    border-radius: 0.6rem;
+    overflow: hidden;
+    font-weight: 300;
+}
+.mob a:hover{
+    font-weight: 500;
+    color: white !important;
+}

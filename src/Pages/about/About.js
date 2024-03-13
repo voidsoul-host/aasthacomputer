@@ -4,6 +4,7 @@ import acelogo from '../../assets/acelogo.png'
 import './about.css'
 import Footer from '../../Components/Footer'
 import Location from '../../Components/Location'
+import ContactUs from '../../Components/ContactUs'
 
 function About() {
   return (
@@ -37,6 +38,7 @@ function About() {
           </div>
         </div>
         <Location/>
+        <ContactUs />
       </div>
       <Footer />
     </div>
