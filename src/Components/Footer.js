@@ -6,7 +6,7 @@ function Footer() {
     <div className='footer-container footer mt-5'>
       <div className="footerUp d-flex">
         <div className="fleft">
-            <h3>Our Vision: Transforming Minds, Empowering Futures</h3>
+            <h3>Our Vision</h3>
             <p className='mt-4' >Our institute is dedicated to equipping students with the knowledge and skills needed to thrive in the modern computer world. We aim to foster innovation, creativity, and digital literacy, empowering individuals to embrace technology as a catalyst for positive change and endless opportunities.</p>
             <div className="socialIcons mt-5 d-flex">
                 {/* instagram svg */}
