@@ -3,6 +3,7 @@ import NavBar from '../../Components/NavBar'
 import acelogo from '../../assets/acelogo.png'
 import './about.css'
 import Footer from '../../Components/Footer'
+import Location from '../../Components/Location'
 
 function About() {
   return (
@@ -35,6 +36,7 @@ function About() {
             <p style={{textAlign:'justify'}} className='mb-0'>At our institute, we envision a future where every individual is equipped with the knowledge and skills to thrive in the rapidly evolving landscape of the modern computer world. Our mission is to inspire and empower the next generation with cutting-edge technology education, fostering a culture of innovation, creativity, and digital literacy. Through personalized learning experiences and hands-on training, we aim to ignite curiosity, cultivate critical thinking, and nurture a passion for lifelong learning. Together, let's shape a world where technology serves as a tool for positive change, driving progress and prosperity for all.</p>
           </div>
         </div>
+        <Location/>
       </div>
       <Footer />
     </div>
